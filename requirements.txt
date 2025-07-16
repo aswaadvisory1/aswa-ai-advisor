@@ -1,0 +1,8 @@
+flask
+openai
+faiss-cpu
+langdetect
+beautifulsoup4
+requests
+numpy
+gunicorn
